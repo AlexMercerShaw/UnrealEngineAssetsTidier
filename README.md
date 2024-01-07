@@ -1,6 +1,7 @@
 # UnrealEngineAssetsTidier
 Documentation
-
+  ![Image text](https://raw.github.com/AlexMercerShaw/UnrealEngineAssetsTidier/main/Untitled-1.png)
+  
 Explanation:
 This code appears to be the implementation of a utility class for organizing game assets. It includes functions for finding referenced asset paths and creating folders based on asset types. Here is a breakdown of each function:
 
@@ -35,5 +36,17 @@ UAssetsTidyToolsBPLibrary::CreateFolder(Path);
 These explanations and examples should help developers understand the functionality of the code and correctly utilize the functions within it. If you have any further questions or need additional assistance, please feel free to let me know.
 
 
+---------------------------------------------------------------------------------------------------
 
-  ![Image text](https://raw.github.com/AlexMercerShaw/UnrealEngineAssetsTidier/main/Untitled-1.png)
+
+How to use the plug-in:
+Make sure the project is backed up before use
+
+1. Select the asset recommendation level to be sorted individually, then enter the name of the folder to be sorted, and click Organize. After the execution is completed, remember to save all and perform repair redirection.
+
+2. Select multiple files to be sorted and enter the current corresponding name and click Organize. A folder with the entered name will be created in the current directory.
+
+3. After clicking, it will be renamed according to the Class type. The renaming rules are on the Switch node of the blueprint.
+
+
+
