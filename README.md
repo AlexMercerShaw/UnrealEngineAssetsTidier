@@ -42,11 +42,11 @@ These explanations and examples should help developers understand the functional
 How to use the plug-in:
 Make sure the project is backed up before use
 
-1. Select the asset recommendation level to be sorted individually, then enter the name of the folder to be sorted, and click Organize. After the execution is completed, remember to save all and perform repair redirection.
+1. Select the asset recommendation level to be sorted individually, then enter the name of the folder to be sorted, and click Organize. After the execution is completed, remember to save all and perform repair redirection. see Releases 1.gif
 
-2. Select multiple files to be sorted and enter the current corresponding name and click Organize. A folder with the entered name will be created in the current directory.
+2. Select multiple files to be sorted and enter the current corresponding name and click Organize. A folder with the entered name will be created in the current directory. see Releases 2.gif
 
-3. After clicking, it will be renamed according to the Class type. The renaming rules are on the Switch node of the blueprint.
+3. After clicking, it will be renamed according to the Class type. The renaming rules are on the Switch node of the blueprint.see Releases 3.gif
 
 
 
